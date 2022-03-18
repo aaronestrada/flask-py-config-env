@@ -8,7 +8,7 @@ the [py-config-env](https://github.com/aaronestrada/flask-py-config-env) extensi
 
 * Python >= 3.6
 * Flask >= 2.0.3
-* [py-config-env](https://github.com/aaronestrada/flask-py-config-env)
+* [py-config-env](https://github.com/aaronestrada/py-config-env)
 
 ## Motivation
 
@@ -19,7 +19,7 @@ from the Flask application.
 ## How to use the extension
 
 For more information about the use of the FlaskEnvironmentLoader, please visit
-the [py-config-env](https://github.com/aaronestrada/flask-py-config-env) parent repository.
+the [py-config-env](https://github.com/aaronestrada/py-config-env) parent repository.
 
 `test_application.py`
 
