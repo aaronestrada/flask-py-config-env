@@ -12,6 +12,6 @@ setup(
     python_requires='>=3.6',
     install_requires=[
         'Flask>=2.0.3',
-        'git+https://git@github.com/aaronestrada/py-config-env.git@1.0'
+        'py-config-env@git+https://github.com/aaronestrada/py-config-env.git@1.0'
     ]
 )
