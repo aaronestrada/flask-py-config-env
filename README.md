@@ -2,7 +2,7 @@
 
 This extension allows loading configuration files containing variables in a Python script, to then access to them via
 the `config` dictionary variable from the Flask application. The extension is built on top of
-the [py-config-env](https://github.com/aaronestrada/flask-py-config-env) extension.
+the [py-config-env](https://github.com/aaronestrada/py-config-env) extension.
 
 ## Requirements
 
