@@ -1,0 +1,2 @@
+Flask>=2.0.3
+git+https://git@github.com/aaronestrada/py-config-env.git@1.0
